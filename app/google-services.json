@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67687002079",
+    "firebase_url": "https://clinicbooking-240ef.firebaseio.com",
+    "project_id": "clinicbooking-240ef",
+    "storage_bucket": "clinicbooking-240ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67687002079:android:7765727b3df91c98",
+        "android_client_info": {
+          "package_name": "knh.or.ke.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67687002079-tmg3584tjnncl2t1fv962rcrdu882s7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9O7yea5bvUPr1FU9mpTymDAsKAQBozU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

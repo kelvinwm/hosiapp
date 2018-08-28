@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/add"
+            android:title="Book Clinic" />
+        <item
+            android:id="@+id/nav_tips"
+            android:icon="@drawable/tips"
+            android:title="Health tips" />
+        <item
+            android:id="@+id/nav_charter"
+            android:icon="@drawable/treatment"
+            android:title="Service charter" />
+        <item
+            android:id="@+id/nav_campaign"
+            android:icon="@drawable/campaign"
+            android:title="Campaigns" />
+        <item
+            android:id="@+id/nav_direction"
+            android:icon="@drawable/dir"
+            android:title="Directions" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_chat"
+                android:icon="@drawable/chat"
+                android:title="Chat with Doctor" />
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@drawable/call"
+                android:title="Video chat" />
+        </menu>
+    </item>
+
+
+</menu>
